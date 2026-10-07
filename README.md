@@ -1,15 +1,7 @@
-<div align="center">
+# ZZP
 
-# zzpice
+小而实用的个人工具与资源。偏好本地优先、少依赖、清晰的信息表达和长期维护。
 
-**Personal tools · Networking · Automation**
+[工具与资源 · zzp.moe](https://zzp.moe/) · [GitHub 仓库](https://github.com/zzpice?tab=repositories)
 
-小而实用的个人工具。偏好本地优先、少依赖、自动化和长期可维护。
-
-`Local-first` · `Minimal dependencies` · `Automation` · `Maintainability`
-
-</div>
-
----
-
-[**所有项目 → zzp.moe**](https://zzp.moe/) · 主要项目也可见下方 **Pinned repositories**。
+项目入口按用途组织，具体使用与维护说明留在各自仓库。共同的[设计与仓库规范](https://github.com/zzpice/zzp-home/blob/main/docs/design.md)记录在入口仓库中。
