@@ -1,7 +1,7 @@
 # ZZP
 
-小而实用的个人工具与资源。偏好本地优先、少依赖、清晰的信息表达和长期维护。
+一些日常使用的工具、模板、图片资源与网络规则。
 
-[工具与资源 · zzp.moe](https://zzp.moe/) · [GitHub 仓库](https://github.com/zzpice?tab=repositories)
+[**打开项目入口 →**](https://zzp.moe/)
 
-项目入口按用途组织，具体使用与维护说明留在各自仓库。共同的[设计与仓库规范](https://github.com/zzpice/zzp-home/blob/main/docs/design.md)记录在入口仓库中。
+项目按用途独立维护，使用与接入说明留在各自仓库。[架构与维护边界](https://github.com/zzpice/zzp-home/blob/main/docs/architecture.md)说明它们之间的关系。
