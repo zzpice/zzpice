@@ -12,4 +12,4 @@
 
 ---
 
-主要项目见下方 **Pinned repositories**。
+[**所有项目 → zzp.moe**](https://zzp.moe/) · 主要项目也可见下方 **Pinned repositories**。
