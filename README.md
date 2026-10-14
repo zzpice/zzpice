@@ -5,14 +5,12 @@
   </picture>
 </a>
 
-<p align="center">把搜索、网站导航和常用工具放在一个地方，保持简单、顺手。</p>
-
 <p align="center"><strong><a href="https://zzp.moe/">打开 Zzp Home ↗</a></strong></p>
 
-<p align="center"><sub>
-<a href="https://github.com/zzpice/zzp-home">源码</a> ·
-<a href="https://github.com/zzpice/anki-template">Anki</a> ·
-<a href="https://github.com/zzpice/assets">Assets</a> ·
-<a href="https://github.com/zzpice/fund-rebalance">Fund Rebalance</a> ·
-<a href="https://github.com/zzpice?tab=repositories">更多项目</a>
-</sub></p>
+<p align="center">
+  <a href="https://zzpice.github.io/anki-template/" title="Anki Template"><img src="./assets/anki.svg" width="36" height="36" alt="Anki Template"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zzpice.github.io/assets/" title="Assets"><img src="./assets/assets.svg" width="36" height="36" alt="Assets"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zzpice.github.io/fund-rebalance/" title="Fund Rebalance"><img src="./assets/folio.svg" width="36" height="36" alt="Fund Rebalance"></a>
+</p>
