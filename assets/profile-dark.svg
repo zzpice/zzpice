@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 300" width="1080" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">Zzp. — Personal workspace</title>
+  <desc id="desc">Small tools, thoughtfully made. zzp.moe</desc>
+  <rect width="1080" height="300" rx="22" fill="#232320"/>
+  <text x="56" y="50" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">ZZP  /  PERSONAL WORKSPACE</text>
+  <circle cx="1022" cy="46" r="4.5" fill="#B8A28C"/>
+  <path d="M56 75H1024" stroke="#4A4842" stroke-width="1"/>
+  <text x="52" y="212" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="-7">Zzp.</text>
+  <text x="370" y="167" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="31">Small tools,</text>
+  <text x="370" y="204" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="31">thoughtfully made.</text>
+  <g transform="translate(810 111)">
+    <rect x="7" y="0" width="148" height="94" rx="13" fill="#2C2B28" stroke="#666158" transform="rotate(-12 81 47)"/>
+    <rect x="46" y="31" width="148" height="94" rx="13" fill="#33322E" stroke="#666158" transform="rotate(8 120 78)"/>
+    <circle cx="87" cy="78" r="8" fill="#B8A28C"/>
+    <path d="M108 72h54M108 84h38" stroke="#4A4842" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <path d="M56 248H1024" stroke="#4A4842" stroke-width="1"/>
+  <text x="57" y="276" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".6">zzp.moe</text>
+  <text x="1019" y="276" text-anchor="end" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6">BUILD  ·  REFINE  ·  REPEAT</text>
+</svg>
