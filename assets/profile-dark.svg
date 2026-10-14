@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 300" width="1080" height="300" role="img" aria-labelledby="title desc">
-  <title id="title">Zzp. — Personal workspace</title>
-  <desc id="desc">Small tools, thoughtfully made. zzp.moe</desc>
-  <rect width="1080" height="300" rx="22" fill="#232320"/>
-  <text x="56" y="50" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">ZZP  /  PERSONAL WORKSPACE</text>
-  <circle cx="1022" cy="46" r="4.5" fill="#B8A28C"/>
-  <path d="M56 75H1024" stroke="#4A4842" stroke-width="1"/>
-  <text x="52" y="212" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="-7">Zzp.</text>
-  <text x="370" y="167" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="31">Small tools,</text>
-  <text x="370" y="204" fill="#F2F0EA" font-family="Georgia, 'Times New Roman', serif" font-size="31">thoughtfully made.</text>
-  <g transform="translate(810 111)">
-    <rect x="7" y="0" width="148" height="94" rx="13" fill="#2C2B28" stroke="#666158" transform="rotate(-12 81 47)"/>
-    <rect x="46" y="31" width="148" height="94" rx="13" fill="#33322E" stroke="#666158" transform="rotate(8 120 78)"/>
-    <circle cx="87" cy="78" r="8" fill="#B8A28C"/>
-    <path d="M108 72h54M108 84h38" stroke="#4A4842" stroke-width="5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 310" width="1080" height="310" role="img" aria-labelledby="title desc">
+  <title id="title">Zzp Home · 个人互联网工作台</title>
+  <desc id="desc">沿用 Zzp Home 的浅深色配色、z. 品牌标识、衬线标题和搜索框视觉。</desc>
+  <rect width="1080" height="310" rx="20" fill="#151617"/>
+  <g transform="translate(40 30)">
+    <rect width="40" height="40" rx="9" fill="#edeeee"/>
+    <text x="20" y="27" text-anchor="middle" fill="#151617" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">z.</text>
+    <text x="56" y="27" fill="#edeeee" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">Zzp</text>
   </g>
-  <path d="M56 248H1024" stroke="#4A4842" stroke-width="1"/>
-  <text x="57" y="276" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".6">zzp.moe</text>
-  <text x="1019" y="276" text-anchor="end" fill="#B2ACA2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6">BUILD  ·  REFINE  ·  REPEAT</text>
+  <text x="1040" y="55" text-anchor="end" fill="#b0b3b6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14">zzp.moe</text>
+  <text x="540" y="146" text-anchor="middle" fill="#edeeee" font-family="Georgia,Songti SC,STSong,serif" font-size="54" letter-spacing="-1.1">Zzp Home</text>
+  <text x="540" y="177" text-anchor="middle" fill="#b0b3b6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="17">搜索、导航与日常工具</text>
+  <rect x="222" y="205" width="636" height="67" rx="19" fill="#00000024" opacity=".4"/>
+  <rect x="222" y="203" width="636" height="67" rx="19" fill="#202224" stroke="#383b3e" stroke-width="1.5"/>
+  <g transform="translate(249 225)" fill="none" stroke="#b0b3b6" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="10" cy="10" r="8"/>
+    <path d="m16 16 8 8"/>
+  </g>
+  <text x="291" y="245" fill="#b0b3b6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="17">搜索任何内容…</text>
+  <rect x="797" y="213" width="46" height="46" rx="12" fill="#e38a53"/>
+  <path d="M808 236h21m-9-9 9 9-9 9" fill="none" stroke="#151617" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
