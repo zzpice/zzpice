@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-<p align="center"><strong><a href="https://zzp.moe/">打开 Zzp Home ↗</a></strong></p>
-
 <p align="center">
   <a href="https://zzpice.github.io/anki-template/" title="Anki Template"><img src="./assets/anki.svg" width="36" height="36" alt="Anki Template"></a>
   &nbsp;&nbsp;&nbsp;
