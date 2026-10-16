@@ -9,6 +9,4 @@
   <a href="https://zzpice.github.io/anki-template/" title="Anki Template"><img src="./assets/anki.svg" width="36" height="36" alt="Anki Template"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://zzpice.github.io/assets/" title="Assets"><img src="./assets/assets.svg" width="36" height="36" alt="Assets"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://zzpice.github.io/fund-rebalance/" title="Fund Rebalance"><img src="./assets/folio.svg" width="36" height="36" alt="Fund Rebalance"></a>
 </p>
